@@ -1,0 +1,89 @@
+product,REFERENCE PARTICLE COUNTER
+    LPA SETTINGS
+test_reference,CALIBRATED
+threshold0, 132
+threshold1, 264
+threshold2, 1218
+threshold3, 2872
+threshold4, 4182
+threshold5, 10564
+threshold6, 15240
+threshold7, 23918
+effective_slit_width,50
+effective_slit_height,500
+divergence_milliradians,0
+channel_depth,400
+calibration_led_level_initial,22683
+calibration_led_level_last,64.82
+calibration_led_level_alarm,50
+calibration_date_last,1732202122
+calibration_date_next,1763738122
+repeat_n,0
+result_format,0
+test_mode,4352
+wait_time_s,0
+test_number,20
+CycleCount,0
+last_download,1717682123
+time_stamp,0
+source_drive,0
+continous_mode_confirm_target_n,0
+pump_target_flow_ml_min,20
+pump_flow_emptying_ml_min,150
+sample_volume_ml,25
+flush_time_s,30
+test_sequence,0
+MEASURED PARAMETERS
+verification_count_1_0,793011
+verification_count_1_1,351026
+verification_count_1_2,37738
+verification_count_1_3,7286
+verification_count_1_4,3549
+verification_count_1_5,525
+verification_count_1_6,195
+verification_count_1_7,30
+verification_count_2_0,783223
+verification_count_2_1,345917
+verification_count_2_2,36747
+verification_count_2_3,7532
+verification_count_2_4,3758
+verification_count_2_5,519
+verification_count_2_6,195
+verification_count_2_7,66
+verification_count_3_0,794229
+verification_count_3_1,353655
+verification_count_3_2,38006
+verification_count_3_3,7517
+verification_count_3_4,3528
+verification_count_3_5,506
+verification_count_3_6,201
+verification_count_3_7,56
+reference_count_0,786600
+reference_count_1,349847
+reference_count_2,38255
+reference_count_3,7640.91
+reference_count_4,3598.39
+reference_count_5,565.245
+reference_count_6,217.014
+reference_count_7,50.4683
+Measured Counter Data
+pump_current_sampling,25
+pump_current_emptying,272
+led_level,14703
+no_noise_threshold,119
+CALIBRATION DOCUMENT VALUES
+date_,45617.6
+serial_number_,61110029
+    RIG PARAMETERS
+meas_init_level,11.53
+calc_init_volume,11.53
+desired_concentration,5
+calc_qty_add,57.65
+meas_qty_add,58.19
+meas_final_level,11.53
+calc_volume,11.53
+calc_concentration,5.04683
+rig_param_volume_mult,-1
+rig_param_volume_constant,0
+rig_param_identifier,00304
+rig_cleanliness_count,0

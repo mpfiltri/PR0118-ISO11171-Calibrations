@@ -1,0 +1,125 @@
+product,LPA3 NAVAIR
+    LPA SETTINGS
+test_reference,CALIBRATED
+threshold0, 64
+threshold1, 166
+threshold2, 1098
+threshold3, 2298
+threshold4, 3448
+threshold5, 9938
+threshold6, 15300
+threshold7, 25000
+effective_slit_width,60
+effective_slit_height,300
+divergence_milliradians,519
+channel_depth,500
+calibration_led_level_initial,10757
+calibration_led_level_last,98.75
+calibration_led_level_alarm,50
+calibration_date_last,1747638314
+calibration_date_next,1779174314
+repeat_n,0
+result_format,0
+test_mode,0
+wait_time_s,0
+test_number,10
+CycleCount,0
+last_download,2147483648
+time_stamp,0
+source_drive,4095
+continous_mode_confirm_target_n,0
+pump_target_flow_ml_min,30
+pump_flow_emptying_ml_min,150
+sample_volume_ml,50
+flush_time_s,30
+test_sequence,2
+sample_portions,1
+threshold32_4,64
+threshold32_5,110
+threshold32_6,166
+threshold32_7,240
+threshold32_8,331
+threshold32_9,437
+threshold32_10,555
+threshold32_11,683
+threshold32_12,818
+threshold32_13,957
+threshold32_14,1098
+threshold32_15,1239
+threshold32_16,1384
+threshold32_17,1536
+threshold32_18,1699
+threshold32_19,1878
+threshold32_20,2076
+threshold32_21,2298
+threshold32_22,2546
+threshold32_23,2822
+threshold32_24,3122
+threshold32_25,3448
+threshold32_26,3797
+threshold32_27,4167
+threshold32_28,4555
+threshold32_29,4958
+threshold32_30,5374
+threshold32_38,8786
+threshold32_50,12874
+threshold32_70,18644
+threshold32_0,0
+threshold32_0,0
+channel_width,750
+model_name,LPA3 NAVAIR
+option_bits,1056
+MEASURED PARAMETERS
+verification_count_1_0,1099006
+verification_count_1_1,432022
+verification_count_1_2,30920
+verification_count_1_3,7874
+verification_count_1_4,3690
+verification_count_1_5,526
+verification_count_1_6,170
+verification_count_1_7,39
+verification_count_2_0,1087716
+verification_count_2_1,426760
+verification_count_2_2,30569
+verification_count_2_3,7480
+verification_count_2_4,3582
+verification_count_2_5,523
+verification_count_2_6,206
+verification_count_2_7,59
+verification_count_3_0,1104612
+verification_count_3_1,429271
+verification_count_3_2,31340
+verification_count_3_3,8102
+verification_count_3_4,3734
+verification_count_3_5,550
+verification_count_3_6,182
+verification_count_3_7,63
+reference_count_0,1.08928e+06
+reference_count_1,428026
+reference_count_2,30454.6
+reference_count_3,7576.12
+reference_count_4,3567.88
+reference_count_5,560.453
+reference_count_6,215.174
+reference_count_7,50.0405
+Measured Counter Data
+pump_current_sampling,35
+pump_current_emptying,348
+led_level,10622
+no_noise_threshold,35
+CALIBRATION DOCUMENT VALUES
+date_,45796.3
+serial_number_,1117100013
+    RIG PARAMETERS
+meas_init_level,12.39
+calc_init_volume,12.39
+desired_concentration,5
+calc_qty_add,61.95
+meas_qty_add,61.85
+meas_final_level,12.36
+calc_volume,12.36
+calc_concentration,5.00405
+rig_param_volume_mult,-1
+rig_param_volume_constant,0
+rig_param_identifier,303
+rig_cleanliness_count,0
