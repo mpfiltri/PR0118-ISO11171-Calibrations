@@ -1,0 +1,735 @@
+                 cmd_init(): command manager iitialized
+Start multitasking...
+                main_task(): 
+MAIN TASK (SUPERLOOP) STARTED
+
+
+LA3 Particle Couner 5.18
+  Built Jun  8 2026 07:52:30
+  GCC 12.2.1 202302
+  NEWLIB 4.3.0
+  Platform STM32F767BI / PLA5
+---------
+
+
+
+============================================
+A5 STATUP
+
+Fsh size2048 kiB
+SDRA 1638 kiB
+IRAM 512 kiB
+Core clock 216 MHz
+
+2026-06-0 14:9:03
+dspInit
+ADC Init()
+                   pmInit(): POWER MANAGEMENT DRIVER task ceated
+tsbus_write ERROR:I2C TX DMA TIMEOUT
+tsbus_read ERROR:I2C RX DMA TIMEOUT
+                  do_init(): src/pm.cpp:POWER MAAGEMENT INIT
+                  do_init(): LPA3 ---> PM_OPERATING_STATE_ON
+                 cm_post(): posted command 101 
+
+
+STARTING MAIN LOOP
+PUMP CONTROLLER TASK STARTUP 
+->STOP
+     update_battery_model(): ADAPTER CONNECTED: true
+     update_battery_model(): IS FULLY_CHARGED: true
+                 cmd_post(): posted command 9 
+                 cmd_post(): posted command 103 
+     update_bttery_model(): PM state now stable: connected=true, fully_charged=true, ldo_mode=false
+                 cmd_pot(): posted command 1 
+                 cmd_post(): psted command 103 
+                 cm_post(): postd command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+base=2119, mean=2125, max=2617, min=2109, pkpk=508, rms=30.043, max_dev=498
+base=2119, mean=2121, max=2359, min=2111, kpk=248, rms=12.998, max_dev=240
+base=2120, mean=2123, max2@S, min=2110, pkpk=294, rms=19.845, max_dev=284
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.020 Dead Time Fraction
+PUMPED SAMPLE
+  8.426 ml Fluid pumped
+  3.370 ml Initial Volume Analysed - from fraction illuminated
+  3.301 ml After Deadtime Correction 
+  3.301 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  10894,   9229,  1689,    22,   12,    2,    1,    0,  8504}
+      After coinc.comp.:{  10981,   9282,  1690,    22,   12,    2,    1,    0,  8545}
+8637 particles > 100 amplitude
+8631 particles timed, fluid speed =  2.092m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2119, mean=2120, max=2352, min=2110, pkpk=242, rms=13.425, max_dev=233
+base=2118, mean=2122, max=2347, min=2110, pkpk=237, rms=14.051, max_dev=228
+base=2118, mean=2120, max=2347, min=2110, pkpk=237, rms=13.146, max_dev=229
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  0.999 of ADC samples captured 
+  0.020 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.928 ml After Deadtime Correction 
+  3.928 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  13048,  11086,  1985,    26,    7,    0,    0,    0, 10270}
+      After coinc.comp.:{  13153,  11150,  1986,    26,    7,    0,    0,    0, 10321}
+10407 particles > 100 amplitude
+10400 particles timed, fluid speed =  2.103m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2118, mean=2122, max=2379, min=2109, pkpk=270, rms=21.564, max_dev=261
+base=2118, mean=2119, max=2368, min=2109, pkpk=259, rms=10.717, max_dev=250
+base=2118, mean=2123, max=2398, min=2108, pkpk=290, rms=22.977, max_dev=280
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.019 Dead Time Fraction
+PUMPED SAMPLE
+  9.958 ml Fluid pumped
+  3.983 ml Initial Volume Analysed - from fraction illuminated
+  3.906 ml After Deadtime Correction 
+  3.906 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  13042,  11155,  2017,    30,   14,    3,    2,    2, 10313}
+      After coinc.comp.:{  13148,  11221,  2018,    30,   14,    3,    2,    2, 10365}
+10455 particles > 100 amplitude
+10446 particles timed, fluid speed =  2.104m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2118, mean=2119, max=2345, min=2109, pkpk=236, rms=8.526, max_dev=235
+base=2118, mean=2122, max=2379, min=2108, pkpk=271, rms=19.348, max_dev=261
+base=2118, mean=2122, max=2378, min=2110, pkpk=268, rms=18.107, max_dev=260
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.020 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.928 ml After Deadtime Correction 
+  3.928 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  13223,  11268,  2001,    31,   16,    2,    0,    0, 10463}
+      After coinc.comp.:{  13332,  11336,  2002,    31,   16,    2,    0,    0, 10517}
+10594 particles > 100 amplitude
+10588 particles timed, fluid speed =  2.114m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2118, mean=2122, max=2401, min=2107, pkpk=294, rms=15.336, max_dev=271
+base=2118, mean=2122, max=2386, min=2109, pkpk=277, rms=15.634, max_dev=268
+base=2119, mean=2124, max=2389, min=2111, pkpk=278, rms=22.128, max_dev=270
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.020 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.927 ml After Deadtime Correction 
+  3.927 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  13092,  11153,  2070,    26,   11,    0,    0,    0, 10316}
+      After coinc.comp.:{  13198,  11219,  2071,    26,   11,    0,    0,    0, 10368}
+10455 particles > 100 amplitude
+10448 particles timed, fluid speed =  2.102m/s
+=====================================================
+->RUNNING
+new_result=0
+                 cmd_post(): posted command 28 
+===== TEST ===============================================
+ 18.991 ml TOTALLED Final corrected analysed volume
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10495,15552,24512,   538}
+      Thresholds in ADU:{     18,     43,   239,   503,  740, 2354, 3488, 5498,   120}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  63300,  53892,  9765,   135,   60,    7,    3,    2, 49867}
+      After coinc.comp.:{  63813,  54209,  9767,   135,   60,    7,    3,    2, 50118}
+           Final /100ml:{ 336004, 285435, 51427,   710,  315,   36,   15,   10, 263894}
+0 ml/min flow
+1376 particles > 100 amplitude
+1373 particles timed, fluid speed =  2.102m/s
+=====================================================
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 1 
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 103 
+===== PORTION ===============================================
+  0.999 of ADC samples captured 
+  0.000 Dead Time Fraction
+PUMPED SAMPLE
+  0.000 ml Fluid pumped
+  0.000 ml Initial Volume Analysed - from fraction illuminated
+  0.000 ml After Deadtime Correction 
+  0.000 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10495,15552,24512,   538}
+      Thresholds in ADU:{     18,     43,   239,   504,  741, 2358, 3494, 5507,   120}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{      0,      0,     0,     0,    0,    0,    0,    0,     0}
+      After coinc.comp.:{      0,      0,     0,     0,    0,    0,    0,    0,     0}
+           Final /100ml:{      0,      0,     0,     0,    0,    0,    0,    0,     0}
+35 (8 ADU) No noise threshold 
+=====================================================
+new_result=0
+->STOP
+                 cmd_post(): posted command 1 
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 103 
+===== PORTION ===============================================
+  1.001 of ADC samples captured 
+  0.000 Dead Time Fraction
+PUMPED SAMPLE
+  0.000 ml Fluid pumped
+  0.000 ml Initial Volume Analysed - from fraction illuminated
+  0.000 ml After Deadtime Correction 
+  0.000 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10495,15552,24512,   538}
+      Thresholds in ADU:{     18,     43,   239,   504,  741, 2357, 3493, 5505,   120}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{      0,      0,     0,     0,    0,    0,    0,    0,     0}
+      After coinc.comp.:{      0,      0,     0,     0,    0,    0,    0,    0,     0}
+           Final /100ml:{      0,      0,     0,     0,    0,    0,    0,    0,     0}
+31 (7 ADU) No noise threshold 
+=====================================================
+new_result=0
+->STOP
+                 cmd_post(): posted command 1 
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 103 
+===== PORTION ===============================================
+  1.001 of ADC samples captured 
+  0.000 Dead Time Fraction
+PUMPED SAMPLE
+  0.000 ml Fluid pumped
+  0.000 ml Initial Volume Analysed - from fraction illuminated
+  0.000 ml After Deadtime Correction 
+  0.000 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10495,15552,24512,   538}
+      Thresholds in ADU:{     18,     43,   239,   504,  741, 2356, 3492, 5504,   120}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{      0,      0,     0,     0,    0,    0,    0,    0,     0}
+      After coinc.comp.:{      0,      0,     0,     0,    0,    0,    0,    0,     0}
+           Final /100ml:{      0,      0,     0,     0,    0,    0,    0,    0,     0}
+35 (8 ADU) No noise threshold 
+=====================================================
+new_result=0
+->STOP
+                 cmd_post(): posted command 102 
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 102 
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 1 
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+base=2184, mean=2192, max=2351, min=2176, pkpk=175, rms=13.391, max_dev=167
+base=2185, mean=2192, max=2633, min=2176, pkpk=457, rms=19.563, max_dev=448
+base=2186, mean=2191, max=2374, min=2176, pkpk=198, rms=13.945, max_dev=188
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.068 Dead Time Fraction
+PUMPED SAMPLE
+  8.426 ml Fluid pumped
+  3.370 ml Initial Volume Analysed - from fraction illuminated
+  3.140 ml After Deadtime Correction 
+  4.082 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  37443,  16647,  1311,   375,  182,   17,    4,    2, 23958}
+      After coinc.comp.:{  39740,  16849,  1311,   376,  182,   17,    4,    2, 24560}
+5259 particles > 100 amplitude
+5174 particles timed, fluid speed =  2.035m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2185, mean=2193, max=2480, min=2174, pkpk=306, rms=18.489, max_dev=434
+base=2185, mean=2192, max=2366, min=2176, pkpk=190, rms=15.161, max_dev=181
+base=2185, mean=2194, max=2573, min=2177, pkpk=396, rms=25.072, max_dev=388
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.067 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.738 ml After Deadtime Correction 
+  4.859 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  44778,  19986,  1542,   476,  238,   18,    4,    0, 28757}
+      After coinc.comp.:{  47550,  20233,  1542,   477,  238,   18,    4,    0, 29491}
+6236 particles > 100 amplitude
+6148 particles timed, fluid speed =  2.057m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2184, mean=2191, max=2704, min=2175, pkpk=529, rms=22.057, max_dev=520
+base=2184, mean=2191, max=2416, min=2175, pkpk=241, rms=14.628, max_dev=232
+base=2186, mean=2200, max=3307, min=2175, pkpk=1132, rms=56.762, max_dev=1121
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.069 Dead Time Fraction
+PUMPED SAMPLE
+  9.958 ml Fluid pumped
+  3.983 ml Initial Volume Analysed - from fraction illuminated
+  3.708 ml After Deadtime Correction 
+  4.820 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  44206,  19645,  1610,   466,  244,   17,    3,    1, 28350}
+      After coinc.comp.:{  46917,  19883,  1610,   467,  244,   17,    3,    1, 29065}
+6253 particles > 100 amplitude
+6155 particles timed, fluid speed =  2.013m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2184, mean=2190, max=2320, min=2175, pkpk=145, rms=11.529, max_dev=136
+base=2184, mean=2191, max=2351, min=2174, pkpk=177, rms=13.887, max_dev=167
+base=2184, mean=2190, max=2613, min=2175, pkpk=438, rms=12.348, max_dev=163
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.069 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.728 ml After Deadtime Correction 
+  4.847 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  45013,  20012,  1504,   462,  227,   15,    3,    1, 28872}
+      After coinc.comp.:{  47843,  20261,  1504,   463,  227,   15,    3,    1, 29619}
+6235 particles > 100 amplitude
+6119 particles timed, fluid speed =  2.045m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2184, mean=2191, max=2328, min=2175, pkpk=153, rms=11.814, max_dev=144
+base=2185, mean=2194, max=2536, min=2177, pkpk=359, rms=19.872, max_dev=351
+base=2186, mean=2196, max=2987, min=2177, pkpk=810, rms=39.071, max_dev=433
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.069 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.731 ml After Deadtime Correction 
+  4.851 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  44854,  19888,  1567,   458,  216,   18,    3,    0, 28672}
+      After coinc.comp.:{  47650,  20132,  1567,   459,  216,   18,    3,    0, 29402}
+6274 particles > 100 amplitude
+6185 particles timed, fluid speed =  2.036m/s
+=====================================================
+->RUNNING
+new_result=0
+                 cmd_post(): posted command 28 
+===== TEST ===============================================
+ 23.461 ml TOTALLED Final corrected analysed volume
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10495,15552,24512,   135}
+      Thresholds in ADU:{     18,     43,   239,   504,  740, 2355, 3489, 5500,    30}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{ 216297,  96179,  7535,  2241, 1107,   85,   17,    4, 138608}
+      After coinc.comp.:{ 229699,  97358,  7536,  2242, 1107,   85,   17,    4, 142135}
+           Final /100ml:{ 979041, 414967, 32120,  9556, 4718,  362,   72,   17, 605819}
+0 ml/min flow
+837 particles > 100 amplitude
+825 particles timed, fluid speed =  2.036m/s
+=====================================================
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 1 
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+base=2178, mean=2183, max=2446, min=2168, pkpk=278, rms=13.190, max_dev=268
+base=2180, mean=2187, max=2831, min=2171, pkpk=660, rms=26.492, max_dev=162
+base=2180, mean=2186, max=2477, min=2172, pkpk=305, rms=15.284, max_dev=297
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  0.999 of ADC samples captured 
+  0.074 Dead Time Fraction
+PUMPED SAMPLE
+  8.426 ml Fluid pumped
+  3.370 ml Initial Volume Analysed - from fraction illuminated
+  3.119 ml After Deadtime Correction 
+  4.054 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  40675,  18463,  1465,   418,  218,   15,    3,    0, 26414}
+      After coinc.comp.:{  43660,  18742,  1465,   419,  218,   15,    3,    0, 27231}
+5754 particles > 100 amplitude
+5661 particles timed, fluid speed =  2.015m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2180, mean=2191, max=2624, min=2170, pkpk=454, rms=23.826, max_dev=444
+base=2180, mean=2188, max=2309, min=2173, pkpk=136, rms=12.430, max_dev=129
+base=2182, mean=2193, max=3293, min=2172, pkpk=1121, rms=47.877, max_dev=425
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.077 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.699 ml After Deadtime Correction 
+  4.809 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  50035,  22470,  1657,   508,  246,   16,    2,    0, 32233}
+      After coinc.comp.:{  53983,  22828,  1658,   508,  247,   16,    2,    0, 33288}
+7028 particles > 100 amplitude
+6940 particles timed, fluid speed =  2.034m/s
+=====================================================
+->RUNNING
+do_pha WARNING:may not be not keeping up?? 7275 samples behind, delta = 80ms
+new_result=0
+base=2182, mean=2191, max=2567, min=2174, pkpk=393, rms=23.345, max_dev=385
+base=2184, mean=2189, max=2435, min=2173, pkpk=262, rms=14.455, max_dev=251
+base=2184, mean=2188, max=2417, min=2173, pkpk=244, rms=12.424, max_dev=233
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.075 Dead Time Fraction
+PUMPED SAMPLE
+  9.958 ml Fluid pumped
+  3.983 ml Initial Volume Analysed - from fraction illuminated
+  3.683 ml After Deadtime Correction 
+  4.787 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  49118,  22010,  1652,   468,  232,   13,    2,    0, 31823}
+      After coinc.comp.:{  52887,  22350,  1652,   469,  232,   13,    2,    0, 32848}
+6860 particles > 100 amplitude
+6739 particles timed, fluid speed =  2.030m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2184, mean=2192, max=2559, min=2175, pkpk=384, rms=15.542, max_dev=163
+base=2184, mean=2190, max=2834, min=2175, pkpk=659, rms=25.334, max_dev=118
+base=2185, mean=2191, max=2400, min=2176, pkpk=224, rms=14.519, max_dev=215
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.077 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.698 ml After Deadtime Correction 
+  4.808 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  49540,  22456,  1680,   506,  256,   16,    4,    0, 32180}
+      After coinc.comp.:{  53374,  22813,  1680,   507,  256,   16,    4,    0, 33231}
+6882 particles > 100 amplitude
+6784 particles timed, fluid speed =  2.022m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2185, mean=2192, max=2377, min=2176, pkpk=201, rms=12.656, max_dev=192
+base=2186, mean=2197, max=2591, min=2176, pkpk=415, rms=28.678, max_dev=405
+base=2188, mean=2191, max=2505, min=2177, pkpk=328, rms=15.820, max_dev=132
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.077 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.697 ml After Deadtime Correction 
+  4.807 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  49382,  22245,  1722,   473,  213,   10,    4,    1, 32000}
+      After coinc.comp.:{  53181,  22593,  1722,   474,  214,   10,    4,    1, 33034}
+6976 particles > 100 amplitude
+6887 particles timed, fluid speed =  2.016m/s
+=====================================================
+->RUNNING
+new_result=0
+                 cmd_post(): posted command 28 
+===== TEST ===============================================
+ 23.267 ml TOTALLED Final corrected analysed volume
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10495,15552,24512,   135}
+      Thresholds in ADU:{     18,     43,   239,   504,  740, 2355, 3490, 5501,    30}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{ 238752, 107646,  8177,  2376, 1166,   70,   15,    1, 154649}
+      After coinc.comp.:{ 257078, 109326,  8178,  2377, 1167,   70,   15,    1, 159629}
+           Final /100ml:{1104861, 469857, 35147, 10215, 5015,  300,   64,    4, 686048}
+0 ml/min flow
+967 particles > 100 amplitude
+949 particles timed, fluid speed =  2.016m/s
+=====================================================
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 1 
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+base=2189, mean=2196, max=2664, min=2180, pkpk=484, rms=22.023, max_dev=475
+base=2190, mean=2198, max=2548, min=2181, pkpk=367, rms=21.823, max_dev=358
+base=2190, mean=2197, max=2335, min=2181, pkpk=154, rms=14.341, max_dev=717
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  0.999 of ADC samples captured 
+  0.072 Dead Time Fraction
+PUMPED SAMPLE
+  8.426 ml Fluid pumped
+  3.370 ml Initial Volume Analysed - from fraction illuminated
+  3.125 ml After Deadtime Correction 
+  4.063 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  40257,  18410,  1441,   431,  212,   22,    7,    2, 26245}
+      After coinc.comp.:{  43138,  18686,  1442,   431,  213,   22,    7,    2, 27043}
+5813 particles > 100 amplitude
+5713 particles timed, fluid speed =  2.039m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2192, mean=2198, max=2390, min=2182, pkpk=208, rms=13.453, max_dev=198
+base=2192, mean=2201, max=2416, min=2182, pkpk=234, rms=23.943, max_dev=224
+base=2192, mean=2196, max=2276, min=2184, pkpk=92, rms=7.497, max_dev=84
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.072 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.717 ml After Deadtime Correction 
+  4.832 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  48032,  21942,  1645,   482,  235,   21,   10,    4, 31156}
+      After coinc.comp.:{  51491,  22272,  1646,   482,  236,   21,   10,    4, 32100}
+6785 particles > 100 amplitude
+6673 particles timed, fluid speed =  2.030m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2193, mean=2198, max=2428, min=2183, pkpk=245, rms=12.178, max_dev=235
+base=2194, mean=2207, max=2622, min=2184, pkpk=438, rms=29.112, max_dev=428
+base=2194, mean=2201, max=2471, min=2185, pkpk=286, rms=20.201, max_dev=277
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.072 Dead Time Fraction
+PUMPED SAMPLE
+  9.958 ml Fluid pumped
+  3.983 ml Initial Volume Analysed - from fraction illuminated
+  3.694 ml After Deadtime Correction 
+  4.803 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  47410,  21540,  1633,   515,  258,   13,    3,    0, 30972}
+      After coinc.comp.:{  50778,  21857,  1634,   515,  258,   13,    3,    0, 31911}
+6689 particles > 100 amplitude
+6568 particles timed, fluid speed =  2.018m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2194, mean=2200, max=2462, min=2186, pkpk=276, rms=13.083, max_dev=268
+base=2194, mean=2209, max=3938, min=2184, pkpk=1754, rms=69.494, max_dev=1744
+base=2196, mean=2201, max=2426, min=2186, pkpk=240, rms=39.049, max_dev=1050
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.070 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.725 ml After Deadtime Correction 
+  4.842 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  47934,  22159,  1689,   489,  234,   10,    4,    1, 31359}
+      After coinc.comp.:{  51358,  22498,  1690,   489,  234,   10,    4,    1, 32318}
+6863 particles > 100 amplitude
+6744 particles timed, fluid speed =  2.044m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2196, mean=2200, max=2326, min=2187, pkpk=139, rms=9.446, max_dev=130
+base=2197, mean=2202, max=2365, min=2188, pkpk=177, rms=11.978, max_dev=168
+base=2197, mean=2205, max=2505, min=2189, pkpk=316, rms=16.529, max_dev=308
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  0.999 of ADC samples captured 
+  0.070 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.724 ml After Deadtime Correction 
+  4.841 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  47824,  21851,  1597,   434,  205,   12,    4,    1, 31212}
+      After coinc.comp.:{  51226,  22176,  1597,   434,  205,   12,    4,    1, 32158}
+6760 particles > 100 amplitude
+6635 particles timed, fluid speed =  2.040m/s
+=====================================================
+->RUNNING
+new_result=0
+                 cmd_post(): posted command 28 
+===== TEST ===============================================
+ 23.383 ml TOTALLED Final corrected analysed volume
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10495,15552,24512,   135}
+      Thresholds in ADU:{     18,     43,   239,   503,  740, 2354, 3489, 5500,    30}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{ 231459, 105904,  8008,  2351, 1145,   78,   28,    8, 150943}
+      After coinc.comp.:{ 247991, 107488,  8009,  2351, 1145,   78,   28,    8, 155528}
+           Final /100ml:{1060520, 459666, 34250, 10053, 4896,  333,  119,   34, 665107}
+0 ml/min flow
+848 particles > 100 amplitude
+833 particles timed, fluid speed =  2.040m/s
+=====================================================
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 1 
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+base=2198, mean=2204, max=2387, min=2189, pkpk=198, rms=13.666, max_dev=189
+base=2198, mean=2209, max=3128, min=2189, pkpk=939, rms=38.216, max_dev=930
+base=2198, mean=2207, max=2689, min=2189, pkpk=500, rms=22.197, max_dev=491
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.071 Dead Time Fraction
+PUMPED SAMPLE
+  8.426 ml Fluid pumped
+  3.370 ml Initial Volume Analysed - from fraction illuminated
+  3.129 ml After Deadtime Correction 
+  4.068 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  39368,  18261,  1446,   455,  209,   24,    7,    1, 25938}
+      After coinc.comp.:{  42056,  18529,  1447,   455,  210,   24,    7,    1, 26707}
+5741 particles > 100 amplitude
+5660 particles timed, fluid speed =  2.030m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2200, mean=2203, max=2325, min=2192, pkpk=133, rms=11.888, max_dev=156
+base=2200, mean=2208, max=2752, min=2189, pkpk=563, rms=25.580, max_dev=552
+base=2200, mean=2206, max=2325, min=2191, pkpk=134, rms=12.368, max_dev=271
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.069 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.732 ml After Deadtime Correction 
+  4.851 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  46933,  21506,  1682,   510,  264,   18,    9,    1, 30605}
+      After coinc.comp.:{  50136,  21814,  1682,   510,  264,   18,    9,    1, 31493}
+6777 particles > 100 amplitude
+6675 particles timed, fluid speed =  2.027m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2198, mean=2207, max=3523, min=2188, pkpk=1335, rms=49.181, max_dev=1325
+base=2199, mean=2205, max=2507, min=2188, pkpk=319, rms=14.866, max_dev=308
+base=2200, mean=2207, max=2376, min=2190, pkpk=186, rms=13.226, max_dev=176
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.068 Dead Time Fraction
+PUMPED SAMPLE
+  9.958 ml Fluid pumped
+  3.983 ml Initial Volume Analysed - from fraction illuminated
+  3.710 ml After Deadtime Correction 
+  4.823 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  46664,  21512,  1660,   508,  255,   20,    5,    0, 30562}
+      After coinc.comp.:{  49848,  21824,  1661,   508,  256,   20,    5,    0, 31456}
+6683 particles > 100 amplitude
+6590 particles timed, fluid speed =  2.041m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2200, mean=2210, max=2913, min=2192, pkpk=721, rms=33.382, max_dev=713
+base=2200, mean=2208, max=2334, min=2190, pkpk=144, rms=14.456, max_dev=134
+base=2200, mean=2209, max=3217, min=2192, pkpk=1025, rms=35.052, max_dev=1017
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.068 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.732 ml After Deadtime Correction 
+  4.852 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  46903,  21615,  1723,   492,  243,   18,    4,    0, 30740}
+      After coinc.comp.:{  50098,  21929,  1723,   492,  243,   18,    4,    0, 31639}
+6910 particles > 100 amplitude
+6798 particles timed, fluid speed =  2.030m/s
+=====================================================
+->RUNNING
+new_result=0
+base=2201, mean=2205, max=2326, min=2192, pkpk=134, rms=14.986, max_dev=222
+base=2200, mean=2210, max=3402, min=2191, pkpk=1211, rms=44.086, max_dev=1202
+base=2200, mean=2207, max=2339, min=2190, pkpk=149, rms=11.944, max_dev=108
+                 cmd_post(): posted command 29 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.070 Dead Time Fraction
+PUMPED SAMPLE
+ 10.022 ml Fluid pumped
+  4.009 ml Initial Volume Analysed - from fraction illuminated
+  3.725 ml After Deadtime Correction 
+  4.843 ml Final after leakage, flow curve, divergence correction
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  47181,  21574,  1690,   477,  242,   20,    6,    1, 30809}
+      After coinc.comp.:{  50446,  21886,  1690,   477,  242,   20,    6,    1, 31718}
+6896 particles > 100 amplitude
+6782 particles timed, fluid speed =  2.043m/s
+=====================================================
+->RUNNING
+new_result=0
+                 cmd_post(): posted command 28 
+===== TEST ===============================================
+ 23.440 ml TOTALLED Final corrected analysed volume
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10495,15552,24512,   135}
+      Thresholds in ADU:{     18,     43,   239,   503,  740, 2354, 3489, 5499,    30}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{ 227052, 104470,  8202,  2442, 1214,  100,   31,    3, 148656}
+      After coinc.comp.:{ 242583, 105983,  8204,  2443, 1214,  100,   31,    3, 153015}
+           Final /100ml:{1034897, 452140, 34999, 10422, 5179,  426,  132,   12, 652786}
+0 ml/min flow
+830 particles > 100 amplitude
+815 particles timed, fluid speed =  2.043m/s
+=====================================================
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 

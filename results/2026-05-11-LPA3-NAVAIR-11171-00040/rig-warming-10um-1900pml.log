@@ -1,0 +1,788 @@
+                 cmd_post(): posted command 102 
+START
+                 cmd_post(): posted command 9 
+STOP/ABORT
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                cmd_post(): posted command 102 
+START
+                 cmd_post(): posted command 1 
+                 cmd_post(): posted command 102 
+START
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 103 
+STOP/ABORT
+STOP/ABORT
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+base=1880, mean=1882, max=2067, min=1870, pkpk=197, rms=9.366, max_dev=187
+base=1868, mean=1873, max=2097, min=1860, pkpk=237, rms=19.833, max_dev=229
+base=1858, mean=1864, max=2074, min=1849, pkpk=225, rms=21.428, max_dev=216
+base=1856, mean=1855, max=1868, min=1847, pkpk=21, rms=11.100, max_dev=215
+base=1856, mean=1858, max=2046, min=1848, pkpk=198, rms=9.970, max_dev=190
+base=1857, mean=1859, max=2077, min=1848, pkpk=229 rms=1.306 max_dev=220
+base=1856, mean=1864, max=2102, min=1848, pkpk=254, rms=25.18, max_dev=246
+base=1858, mean=1859, max=2043, min=1847, pkpk=196, rms=8.488, max_dev=218
+base=1857, mean1862, a=296, min=1848 pkpk=248, rms=17.792, max_dev=239
+base=1858, mean=1862, max=2089, min=1850, pkpk=239, rms=9.556, max_dev=231
+base=1860, mean=160, max=2065, min=1851, pkpk21, rms=7.219, max_dev=205
+base=1860, mean=1862, max=2086, min=1851, pkpk=235, rms=13.485, max_dev=226
+base=1860, mean=1861, max=1985, min=1852, pkpk=133, rms=9.392, max_dev=195
+base=1861, mean=1866, max=2095, min=1851, pkpk=244, rms=14.950, max_dev=220
+base=1862, mean=1863, max=2036, min=1854, pkpk=182, rms=10.250, max_dev=177
+base=1863, mean=1867, max=2229, min=1854, pkpk=375, rms=20.691, max_dev=366
+base=1865, mean=1868, max=2069, min=1857, pkpk=212, rms=15.236, max_dev=202
+base=1866, mean=1870, max=2079, min=1857, pkpk=222, rms=21.774, max_dev=213
+bae=1868, mean=1870, max=2108, min=1859, pkpk=249, rms=14.434, max_dev=240
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 102 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.018 Dead Time Fraction
+PUMPED SAMPLE
+ 48.836 ml Fluid pumped
+ 19.534 ml Initial Volume Analysed - from fraction illuminated
+ 19.181 ml After Deadtime Correction 
+ 23.017 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10072,16030,24934,   538}
+      Thresholds in ADU:{     17,     40,   225,   473,  695, 2123, 337, 5256,  13}
+           Size um(c):      4          14    2,   25,   38,   50,   70,    10}
+            Raw count:{  54675,  47617,  5556,   151,   83,   21,    7,    0, 44282}
+      After coinc.comp.:{  54900,  47766,  5556,   151,   83,   21,    7,    0, 44401}
+           Final /100ml:{ 238515, 207521, 24138,   656,  360,   91,   30,    0, 192902}
+0 ml/min flow
+44664 particles > 100 amplitude
+44637 particles timed, fluid speed =  1.936m/s
+=====================================================
+                 cmd_post(): posted command 103 
+START
+STOP/ABORT
+                 cmd_post(): posted command 19 
+new_result=0
+->STOP
+->STARTING
+->PRE-RUN
+->RUNNING
+base=047, mean=2052, max=2522, min=2039, pkpk=483, rms=24.145, max_dev=475
+base=2047, mean=2052, max=2289, min=2041, pkpk=248, rms=16.350, max_dev=242
+base=2048, mean=2051, max=2257, min=2041, pkpk=216, rms=10.593, max_dev=209
+base=2052, mean=2052, max=2273, min=2043, pkpk=230, rms=11.583, max_dev=221
+base=2052, mean=2055, max=2256, min=2043, pkpk=213, rms=12.777, max_dev=212
+base=2054, mean=2058, max=2453, min=2046, pkpk=407, rms=21.352 max_dev=399
+base=2056, mean=2061, max=2304, min=2048, pkpk=256, rms=21.781, max_dev=248
+base=2056, mean=2061, max=2293, min=2048, pkpk=245, rms=20.388, max_dev=237
+base=2058, mean=2061, max=2277, min=2050, pkpk=227, rms=15.479, max_dev=219
+base=2061, mean=2062, max=2284, min=2052, pkpk=232, rms=11.489, max_dev=223
+base=2062, mean=2065, max=2280, min=2052, pkpk=228, rms=16.965, max_dev=218
+base=2064, mean=2073, max=2288, min=2055, pkpk=233, rms=27.492, max_dev=224
+base=2064, mean=2073, max=2272, min=2057, pkpk=215, rms=23.923, max_dev=208
+base=2066, mean=2067, max=2278, min=2057, pkpk=221, rms=11.859, max_dev=212
+base=2068, mean=2069, max=2269, min=2059, pkpk=210, rms=10.668, max_dev=224
+base=2070, mean=2077, max=2322, min=2061, pkpk=261, rms=25.041, max_dev=252
+base=2070, mean=2074, max=2274, min=2062, pkpk=212, rms=14.682, max_dev=247
+base=2073, mean=2075,ma=2337, min=2064, pkpk=273, rms=13.055, max_dev=264
+base=2076, mean=2081, mx=3730, min=06, pkpk=1665, rms=58.10, max_dev=1654
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 102 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.018 Dead Time Fraction
+PMPED SAMPLE
+ 48.900 ml Fluid pmped
+ 19.560 ml Initial Volume Analysed - from fraction illuminated
+ 19.195 ml After Deadtime Correction 
+ 23.035 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10072,16030,24934,   538}
+      Thresholds in ADU:{     17,     40,   225,   474,  696, 2126, 3385, 5265,   113}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  54774,  47636,  5631,   155,   93,   24,   10,    4, 44229}
+      After coinc.comp.:{  55000,  47785,  5631,   155,   93,   24,   10,    4, 44348}
+           Final /100ml:{ 238765, 207443, 24445,   672,  403,  104,   43,   17, 192523}
+0 ml/min flow
+44633articls > 100amplitud
+44609 articles tmed, flud spee=  1.93m/s
+===============================================
+                 cmd_post(): posted command 103 
+START
+STOP/ABORT
+                 cmd_post(): posted command 19 
+new_result=0
+->STOP
+->STARTING
+->PRE-RUN
+->RUNNING
+do_pha WARNING:may not be not keeping up?? 388 saplesbehind, delta =2643ms
+base=1990, mean=1996, max=2230, min=1982, pkpk=248, rms=21.697, max_dev=240
+base=1991, mean=1994, max=2202, min=1981, pkpk=221, rms=16.273, max_dev=211
+base=1992, mean=1994, max=2232, min=1984, pkpk=248, rms=14.417, max_dev=240
+base=1994, mean=1995, max=2197, min=1984, pkpk=213, rms=2.545, max_dev=33
+base=1996, mean=1995, max=2097, min=1987, pkpk=110, rms=4.273, max_dev=101
+base=1996, mean=2000, max=2208, min=1988, pkpk=220, rms=17.195, max_dev=212
+base=1998, mean=2000, max=2183, min=1990, pkpk=193, rms=11.052, max_dev=185
+base=2000, mean=2002, max=2198, min=1989, pkpk=209, rms=8.643, max_dev=186
+base=2002, mean=2006, max=2245, min=1994, pkpk=251, rms=22.152, max_dev=250
+base=2004, mean=2008, max=2447, min=1994, pkpk=453, rms=21.118, max_dev=443
+base=2004, mean=2007, max=2183, min=1996, pkpk=187, rms=13.630, max_dev=179
+     update_battery_model(): IS FULLY_CHARGED: false
+     update_battery_model(): PM state not stable
+base=2004, mean=2010, max=2221, min=1994, pkpk=227, rms=23.587, max_dev=217
+                 cmd_post(): posted command 103 
+STOP/ABORT
+     update_battery_model(): IS FULLY_CHARGED: true
+base=1990, mean=1989, max=1999, min=1980, pkpk=19, rms=1.775, max_dev=9
+base=1990, mean=2002, max=2205, min=1982, pkpk=223, rms=30.966, max_dev=215
+base=1990, mean=1989, max=2000, min=1980, pkpk=20, rms=2.027, max_dev=10
+base=1990, mean=1989, max=2000, min=1981, pkpk=19, rms=1.824, max_dev=10
+     update_battery_moel(): PM state now stable: cnneted=true, fully_charged=true, ldo_mode=false
+base=1990, mean=1990, max=1999, min=1982, pkpk=17, rms=1.841, max_dev=11
+base=1992, mean=1991, max=2000, min=1982, pkpk=18, rms=1.838, max_dev=8
+base=1992, mean=1993, max=2008, min=1984, pkpk=24, rms=3.005, max_dev=16
+base=1992, mean=1991, max=2001, min=1982, pkpk=19, rms=1.782, max_dev=9
+base=1992, mean=1993, max=2005, min=1985, pkpk=20, rms=1.920, max_dev=13
+base=1994, mean=1993, max=2003, min=1985, pkpk=18, rms=1.722, max_dev=9
+base=1996, mean=2013, max=2225, min=1987, pkpk=238, rms=39.847, max_dev=229
+base=1994, mean=1994, max=2007, min=1986, pkpk=21, rms=1.822, max_dev=13
+base=1996, mean=1996, max=2007, min=1988, pkpk=19, rms=1.905, max_dev=11
+                 cmd_post(): posted command 9 
+->STOP->STOPSTOPABORT
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 1 
+                 cmd_post(): posted command 102 
+START
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 103 
+STOP/ABORT
+STOP/ABORT
+                 cmd_post(): posted command 19 
+     update_battery_model(): ISFULLY_CHARGED: false
+     upat_batter->STARTING
+y_model(): PM state not stable
+                 cmd_post(): posted command 103 
+STOP/ABORT
+->PRE-RUN
+->RUNNING
+     update_battery_model(): IS FULLY_CHARGED: true
+base=200, mean=200, max=2020, min=1997, pkpk=23, rms=2.065, max_dev=14
+                 cmd_post(): posted command 9 
+->STOP
+->STOP
+STOP/ABORT
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 1 
+                 cmd_post(): postedcommand 102 
+START
+                 cmd_post(): posted command 9 
+STOP/ABORT
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 103 
+STOP/ABORT
+STOP/ABORT
+                 cmd_post(): posted command 1 
+     update_batery_modl(: IS FULLY_HATED: false
+                 cmd_post(): posted command 9 
+STOP/ABORT
+                 cmd_post(): posted command 103 
+STOP/ABORT
+     update_battery_model(): IS FULLY_CHARGED: true
+                 cmd_post(): posted command 1 
+     update_battery_model(): IS FULLY_CHARGED: false
+                 cmd_post(): posted command 9 
+STOP/ABORT
+                 cmd_post(): posted command 103 
+STOP/ABORT
+     update_battery_model(): IS FULLY_CHARGED: true
+PLA5 bootloader startup
+SDRAM initialised for 16MB
+RX CRC ERROR
+JUMP TO APPLICATION IMAGE
+******************************
+
+
+                cmd_init(): cmmand manager initialized
+Start multtasking...
+                main_task(): 
+MAIN TASK (SUPERLOOP) STARTED
+
+
+LPA3 Particle Counter )16
+  Built May 12 2026 10:05:37
+  GCC 12.2.1 20230214
+  NEWLIB 4.3.0
+  Platform STM32F767BI / PLA5
+---------
+
+
+
+==================================================
+PLA5 STARTUP
+
+Flash size 2048 kiB
+SDRAM 16384 kiB
+IRAM 512 kiB
+Core clock 216 MHz
+
+2026-05-12 10:24:43
+dspInit
+ADC Init()
+                   pmInit(): POWER MANAGEMENT DRIVER task created
+tsbus_write ERROR:I2C TX DMA TIMEOUT
+tsbus_read ERROR:I2C RX DMA TIMEOUT
+                  do_init(): src/pm.cpp:POWER MANAGEMENT INIT
+                  do_init(): LPA3 ---> PM_OPERATING_STATE_ON
+                 cmd_post(): posted command 101 
+
+
+STARTING MAIN LOOP
+PUMP CONTROLLER TASK STARTUP 
+->STOP
+     update_battery_model(): ADAPTER CONNECTED: true
+     update_battery_model(): IS FULLY_CHARGED: true
+                 cmd_post(): posted command 1 
+     update_battery_model(): IS FULLY_CHARGED: false
+                 cmd_post(): posted command 103 
+STOP/ABORT
+     update_battery_model(): IS FULLY_CHARGED: true
+                 cmd_post(): posted command 9 
+STOP/ABORT
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 1 
+     update_battery_model(): IS FULLY_CHARGED: false
+                 cmd_post(): posted command 9 
+STOP/ABORT
+                 cmd_post(): posted command 103 
+STOP/ABORT
+     update_battery_model(): IS FULLY_CHARGED: true
+                 cmd_post(): posted command 1 
+     update_battery_model(): IS FULLY_CHARGED: false
+                 cmd_post(): posted command 9 
+STOP/ABORT
+                 cmd_post(): posted command 103 
+STOP/ABORT
+     update_battery_model(): IS FULLY_CHARGED: true
+                 cmd_post(): posted command 1 
+     update_battery_model(): IS FULLY_CHARGED: false
+     update_battery_model(): IS FULLY_CHARGED: true
+     update_battery_model(): PM state now stable: connected=true, fully_charged=true, ldo_mode=false
+                 cmd_post(): posted command 1 
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 9 
+STOP/ABORT
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 102 
+START
+                 cmd_post(): posted command 1 
+                 cmd_post(): posted command 1 
+                 cmd_post(): posted command 103 
+                 cmd_pSTOP/ABORT
+ost(): posted command 102 
+START
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 103 
+STOP/ABORT
+STOP/ABORT
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+base=2014, mean=2024, max=2541, min=2007, pkpk=534, rms=32.121, max_dev=527
+base=2005, mean=2006, max=2203, min=1996, pkpk=207, rms=16.687, max_dev=321
+base=2004, mean=2008, max=2230, min=1996, pkpk=234, rms=15.652, max_dev=577
+base=2006, mean=2012, max=2223, min=1998, pkpk=225, rms=18.187, max_dev=217
+base=2010, mean=2017, max=2475, min=1999, pkpk=476, rms=26.868, max_dev=465
+base=2010, mean=2012, max=2259, min=2000, pkpk=259, rms=11.894, max_dev=249
+base=2010, mean=2013, max=2213, min=2002, pkpk=211, rms=12.952, max_dev=203
+base=2014, mean=2017, max=2212, min=2005, pkpk=207, rms=13.763, max_dev=198
+base=2014, mean=2015, max=2037, min=2004, pkpk=33, rms=2.284, max_dev=23
+base=2018, mean=2027, max=3018, min=2008, pkpk=1010, rms=42.850, max_dev=1000
+base=2018, mean=2022, max=2225, min=2010, pkpk=215, rms=18.017, max_dev=207
+base=2021, mean=2029, max=2263, min=2013, pkpk=250, rms=25.394, max_dev=242
+base=2023, mean=2026, max=2240, min=2013, pkpk=227, rms=14.685, max_dev=217
+base=2024, mean=2028, max=2239, min=2014, pkpk=225, rms=19.148, max_dev=215
+base=2026, mean=2030, max=2241, min=2017, pkpk=224, rms=17.890, max_dev=435
+base=2028, mean=2031, max=2267, min=2019, pkpk=248, rms=16.752, max_dev=239
+base=2032, mean=2036, max=2248, min=2024, pkpk=224, rms=10.666, max_dev=211
+base=2034, mean=2037, max=2264, min=2026, pkpk=238, rms=13.938, max_dev=230
+                 cmd_post(): posted command 25 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.019 Dead Time Fraction
+PUMPED SAMPLE
+ 48.006 ml Fluid pumped
+ 19.202 ml Initial Volume Analysed - from fraction illuminated
+ 18.829 ml After Deadtime Correction 
+ 22.595 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10072,16030,24934,   538}
+      Thresholds in ADU:{     17,     40,   225,   473,  695, 2122, 3377, 5254,   113}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  55386,  47912,  5421,   150,   88,   24,    8,    0, 44295}
+      After coinc.comp.:{  55629,  48070,  5422,   150,   88,   24,    8,    0, 44419}
+           Final /100ml:{ 246193, 212740, 23995,   663,  389,  106,   35,    0, 196582}
+0 ml/min flow
+44698 particles > 100 amplitude
+44662 particles timed, fluid speed =  1.943m/s
+=====================================================
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 102 
+START
+                 cmd_post(): posted command 1 
+                 cmd_post(): posted command 102 
+START
+                 cmd_post(): posted command 103 
+                 cmd_post(): posted command 103 
+STOP/ABORT
+STOP/ABORT
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+base=2038, mean=2042, max=2281, min=2029, pkpk=252, rms=19.737, max_dev=243
+base=2032, mean=2035, max=2281, min=2023, pkpk=258, rms=17.937, max_dev=249
+base=2018, mean=2020, max=2254, min=2009, pkpk=245, rms=11.916, max_dev=236
+base=2010, mean=2011, max=2207, min=2000, pkpk=207, rms=7.302, max_dev=36
+base=2010, mean=2011, max=2216, min=2000, pkpk=216, rms=16.182, max_dev=230
+base=2010, mean=2012, max=2231, min=1999, pkpk=232, rms=13.093, max_dev=221
+base=2012, mean=2017, max=2327, min=2001, pkpk=326, rms=22.481, max_dev=216
+base=2012, mean=2021, max=3771, min=2004, pkpk=1767, rms=63.127, max_dev=1759
+base=2014, mean=2018, max=2260, min=2007, pkpk=253, rms=20.223, max_dev=246
+base=2016, mean=2021, max=2280, min=2007, pkpk=273, rms=18.755, max_dev=264
+base=2019, mean=2021, max=2251, min=2009, pkpk=242, rms=15.415, max_dev=232
+base=2021, mean=2023, max=2261, min=2011, pkpk=250, rms=15.683, max_dev=240
+base=2022, mean=2027, max=2267, min=2013, pkpk=254, rms=20.761, max_dev=245
+base=2024, mean=2026, max=2259, min=2014, pkpk=245, rms=15.616, max_dev=235
+base=2026, mean=2029, max=2411, min=2017, pkpk=394, rms=17.737, max_dev=385
+base=2028, mean=2031, max=2271, min=2020, pkpk=251, rms=13.531, max_dev=243
+base=2031, mean=2036, max=2266, min=2023, pkpk=243, rms=18.574, max_dev=235
+base=2034, mean=2039, max=2254, min=2025, pkpk=229, rms=20.019, max_dev=220
+base=2036, mean=2040, max=2247, min=2027, pkpk=220, rms=16.193, max_dev=211
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 102 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.020 Dead Time Fraction
+PUMPED SAMPLE
+ 48.836 ml Fluid pumped
+ 19.534 ml Initial Volume Analysed - from fraction illuminated
+ 19.139 ml After Deadtime Correction 
+ 22.967 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10072,16030,24934,   538}
+      Thresholds in ADU:{     17,     40,   224,   472,  693, 2118, 3370, 5243,   113}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  57937,  49788,  5927,   208,  123,   31,   17,    3, 45891}
+      After coinc.comp.:{  58206,  49959,  5927,   209,  123,   31,   17,    3, 46025}
+           Final /100ml:{ 253427, 217520, 25805,   909,  535,  134,   74,   13, 200391}
+0 ml/min flow
+46366 particles > 100 amplitude
+46328 particles timed, fluid speed =  1.941m/s
+=====================================================
+START
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+base=2122, mean=2124, max=2356, min=2111, pkpk=245, rms=11.386, max_dev=234
+base=2136, mean=2140, max=2386, min=2127, pkpk=259, rms=15.799, max_dev=215
+base=2132, mean=2135, max=2342, min=2122, pkpk=220, rms=16.008, max_dev=210
+base=2120, mean=2123, max=2395, min=2110, pkpk=285, rms=17.252, max_dev=275
+base=2104, mean=2105, max=2328, min=2095, pkpk=233, rms=11.107, max_dev=224
+base=2105, mean=2105, max=2142, min=2096, pkpk=46, rms=2.611, max_dev=37
+base=2108, mean=2113, max=2350, min=2097, pkpk=253, rms=22.251, max_dev=242
+base=2108, mean=2110, max=2330, min=2100, pkpk=230, rms=12.973, max_dev=222
+base=2111, mean=2115, max=2371, min=2103, pkpk=268, rms=19.893, max_dev=260
+base=2112, mean=2116, max=2362, min=2102, pkpk=260, rms=16.838, max_dev=250
+base=2116, mean=2119, max=2338, min=2107, pkpk=231, rms=16.715, max_dev=222
+base=2116, mean=2121, max=2382, min=2108, pkpk=274, rms=18.434, max_dev=266
+base=2120, mean=2124, max=2385, min=2111, pkpk=274, rms=16.795, max_dev=403
+base=2124, mean=2126, max=2341, min=2115, pkpk=226, rms=12.099, max_dev=217
+base=2126, mean=2128, max=2347, min=2115, pkpk=232, rms=11.874, max_dev=220
+base=2128, mean=2133, max=2352, min=2120, pkpk=232, rms=20.970, max_dev=224
+base=2130, mean=2134, max=2345, min=2119, pkpk=226, rms=13.533, max_dev=199
+base=2133, mean=2134, max=2345, min=2125, pkpk=220, rms=13.210, max_dev=212
+base=2136, mean=2140, max=2384, min=2125, pkpk=259, rms=20.534, max_dev=248
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 102 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.020 Dead Time Fraction
+PUMPED SAMPLE
+ 49.155 ml Fluid pumped
+ 19.662 ml Initial Volume Analysed - from fraction illuminated
+ 19.258 ml After Deadtime Correction 
+ 23.110 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10072,16030,24934,   538}
+      Thresholds in ADU:{     17,     40,   224,   472,  694, 2120, 3374, 5248,   113}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  58567,  50095,  5802,   210,  133,   29,   12,    3, 45993}
+      After coinc.comp.:{  58842,  50267,  5803,   210,  133,   29,   12,    3, 46126}
+           Final /100ml:{ 254616, 217511, 25110,   908,  575,  125,   51,   12, 199592}
+0 ml/min flow
+46479 particles > 100 amplitude
+46437 particles timed, fluid speed =  1.940m/s
+=====================================================
+START
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+base=2146, mean=2151, max=2374, min=2136, pkpk=238, rms=24.401, max_dev=228
+base=2158, mean=2160, max=2364, min=2150, pkpk=214, rms=14.727, max_dev=229
+base=2152, mean=2155, max=2377, min=2143, pkpk=234, rms=13.008, max_dev=225
+base=2140, mean=2151, max=2374, min=2131, pkpk=243, rms=32.851, max_dev=234
+base=2124, mean=2128, max=2343, min=2112, pkpk=231, rms=14.882, max_dev=260
+base=2120, mean=2124, max=2349, min=2111, pkpk=238, rms=19.740, max_dev=229
+base=2124, mean=2127, max=2337, min=2111, pkpk=226, rms=15.689, max_dev=213
+base=2124, mean=2127, max=2334, min=2115, pkpk=219, rms=15.485, max_dev=216
+base=2128, mean=2131, max=2342, min=2119, pkpk=223, rms=15.672, max_dev=214
+base=2130, mean=2164, max=6930, min=2121, pkpk=4809, rms=200.483, max_dev=4800
+base=2132, mean=2132, max=2321, min=2122, pkpk=199, rms=7.185, max_dev=189
+base=2133, mean=2139, max=2486, min=2125, pkpk=361, rms=20.640, max_dev=353
+base=2136, mean=2136, max=2298, min=2127, pkpk=171, rms=13.337, max_dev=223
+base=2138, mean=2141, max=2381, min=2128, pkpk=253, rms=20.228, max_dev=256
+base=2140, mean=2143, max=2353, min=2132, pkpk=221, rms=13.790, max_dev=213
+base=2143, mean=2146, max=2385, min=2134, pkpk=251, rms=12.473, max_dev=242
+base=2146, mean=2147, max=2366, min=2136, pkpk=230, rms=9.407, max_dev=220
+base=2148, mean=2151, max=2335, min=2138, pkpk=197, rms=12.448, max_dev=187
+base=2151, mean=2153, max=2362, min=2141, pkpk=221, rms=13.119, max_dev=211
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 102 
+===== PORTION ===============================================
+  0.999 of ADC samples captured 
+  0.020 Dead Time Fraction
+PUMPED SAMPLE
+ 49.091 ml Fluid pumped
+ 19.636 ml Initial Volume Analysed - from fraction illuminated
+ 19.229 ml After Deadtime Correction 
+ 23.075 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10072,16030,24934,   538}
+      Thresholds in ADU:{     17,     40,   224,   471,  693, 2116, 3367, 5238,   113}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  58908,  50145,  5830,   209,  131,   30,   11,    2, 45959}
+      After coinc.comp.:{  59188,  50318,  5831,   209,  132,   30,   11,    2, 46092}
+           Final /100ml:{ 256491, 218053, 25268,   905,  572,  130,   47,    8, 199740}
+0 ml/min flow
+46406 particles > 100 amplitude
+46379 particles timed, fluid speed =  1.936m/s
+=====================================================
+START
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+base=2170, mean=2176, max=2409, min=2161, pkpk=248, rms=21.980, max_dev=239
+base=2184, mean=2186, max=2386, min=2174, pkpk=212, rms=13.511, max_dev=202
+base=2178, mean=2183, max=2412, min=2169, pkpk=243, rms=19.558, max_dev=234
+base=2166, mean=2168, max=2403, min=2157, pkpk=246, rms=13.897, max_dev=237
+base=2149, mean=2153, max=2381, min=2140, pkpk=241, rms=15.563, max_dev=247
+base=2142, mean=2147, max=2373, min=2133, pkpk=240, rms=18.146, max_dev=231
+base=2144, mean=2146, max=2386, min=2135, pkpk=251, rms=13.730, max_dev=242
+base=2146, mean=2151, max=2381, min=2136, pkpk=245, rms=19.500, max_dev=235
+base=2146, mean=2153, max=2379, min=2137, pkpk=242, rms=21.084, max_dev=233
+base=2150, mean=2152, max=2378, min=2141, pkpk=237, rms=14.474, max_dev=228
+base=2154, mean=2159, max=2372, min=2145, pkpk=227, rms=19.160, max_dev=218
+base=2154, mean=2156, max=2385, min=2144, pkpk=241, rms=12.939, max_dev=231
+base=2156, mean=2159, max=2380, min=2147, pkpk=233, rms=11.763, max_dev=224
+base=2159, mean=2163, max=2373, min=2151, pkpk=222, rms=16.258, max_dev=214
+base=2161, mean=2167, max=2369, min=2152, pkpk=217, rms=21.226, max_dev=208
+base=2164, mean=2169, max=2390, min=2153, pkpk=237, rms=19.073, max_dev=226
+base=2165, mean=2174, max=2417, min=2157, pkpk=260, rms=25.538, max_dev=252
+base=2170, mean=2177, max=3461, min=2160, pkpk=1301, rms=55.011, max_dev=1291
+base=2170, mean=2176, max=2362, min=2162, pkpk=200, rms=15.552, max_dev=182
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 102 
+===== PORTION ===============================================
+  0.999 of ADC samples captured 
+  0.020 Dead Time Fraction
+PUMPED SAMPLE
+ 49.091 ml Fluid pumped
+ 19.636 ml Initial Volume Analysed - from fraction illuminated
+ 19.224 ml After Deadtime Correction 
+ 23.069 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10072,16030,24934,   538}
+      Thresholds in ADU:{     16,     40,   224,   471,  692, 2112, 3362, 5230,   112}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  59468,  50762,  6071,   207,  141,   35,   10,    1, 46454}
+      After coinc.comp.:{  59756,  50942,  6072,   207,  142,   35,   10,    1, 46591}
+           Final /100ml:{ 259025, 220819, 26320,   897,  615,  151,   43,    4, 201958}
+0 ml/min flow
+46926 particles > 100 amplitude
+46886 particles timed, fluid speed =  1.935m/s
+=====================================================
+START
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+do_pha WARNING:may not be not keeping up?? 7680 samples behind, delta = 26316ms
+base=2194, mean=2206, max=2413, min=2185, pkpk=228, rms=31.535, max_dev=219
+base=2210, mean=2213, max=2425, min=2199, pkpk=226, rms=16.891, max_dev=215
+base=2202, mean=2208, max=2438, min=2193, pkpk=245, rms=21.098, max_dev=236
+base=2190, mean=2195, max=2534, min=2181, pkpk=353, rms=20.341, max_dev=344
+base=2172, mean=2175, max=2398, min=2164, pkpk=234, rms=13.323, max_dev=226
+base=2166, mean=2171, max=2574, min=2156, pkpk=418, rms=23.493, max_dev=408
+base=2167, mean=2174, max=2390, min=2156, pkpk=234, rms=25.129, max_dev=223
+base=2168, mean=2172, max=2402, min=2157, pkpk=245, rms=16.473, max_dev=234
+base=2172, mean=2173, max=2391, min=2161, pkpk=230, rms=14.464, max_dev=219
+base=2174, mean=2178, max=2431, min=2164, pkpk=267, rms=20.749, max_dev=257
+base=2176, mean=2176, max=2191, min=2166, pkpk=25, rms=2.255, max_dev=153
+base=2178, mean=2185, max=2402, min=2169, pkpk=233, rms=24.093, max_dev=224
+base=2182, mean=2185, max=2446, min=2168, pkpk=278, rms=19.332, max_dev=264
+base=2182, mean=2184, max=2423, min=2173, pkpk=250, rms=16.030, max_dev=241
+base=2184, mean=2186, max=2386, min=2173, pkpk=213, rms=13.889, max_dev=202
+base=2186, mean=2190, max=2423, min=2176, pkpk=247, rms=19.129, max_dev=237
+base=2188, mean=2192, max=2600, min=2179, pkpk=421, rms=23.540, max_dev=412
+base=2190, mean=2195, max=2426, min=2181, pkpk=245, rms=20.483, max_dev=236
+base=2194, mean=2201, max=2438, min=2184, pkpk=254, rms=21.452, max_dev=244
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 102 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.021 Dead Time Fraction
+PUMPED SAMPLE
+ 49.155 ml Fluid pumped
+ 19.662 ml Initial Volume Analysed - from fraction illuminated
+ 19.246 ml After Deadtime Correction 
+ 23.095 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10072,16030,24934,   538}
+      Thresholds in ADU:{     16,     40,   223,   470,  690, 2108, 3356, 5220,   112}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  59374,  50427,  6103,   221,  131,   32,    7,    1, 46144}
+      After coinc.comp.:{  59661,  50603,  6104,   221,  131,   32,    7,    1, 46278}
+           Final /100ml:{ 258319, 219100, 26429,   956,  567,  138,   30,    4, 200373}
+0 ml/min flow
+46632 particles > 100 amplitude
+46586 particles timed, fluid speed =  1.926m/s
+=====================================================
+START
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+base=2129, mean=2131, max=2359, min=2120, pkpk=239, rms=14.918, max_dev=230
+base=2146, mean=2147, max=2357, min=2136, pkpk=221, rms=9.322, max_dev=211
+base=2140, mean=2142, max=2344, min=2131, pkpk=213, rms=13.309, max_dev=204
+base=2128, mean=2131, max=2357, min=2118, pkpk=239, rms=16.479, max_dev=229
+base=2112, mean=2114, max=2353, min=2101, pkpk=252, rms=17.459, max_dev=241
+base=2104, mean=2108, max=2675, min=2094, pkpk=581, rms=24.132, max_dev=571
+base=2106, mean=2111, max=2343, min=2094, pkpk=249, rms=20.877, max_dev=234
+base=2106, mean=2108, max=2301, min=2097, pkpk=204, rms=11.593, max_dev=195
+base=2108, mean=2111, max=2335, min=2099, pkpk=236, rms=14.651, max_dev=227
+base=2112, mean=2118, max=2349, min=2103, pkpk=246, rms=22.640, max_dev=237
+base=2114, mean=2117, max=2337, min=2105, pkpk=232, rms=18.540, max_dev=223
+base=2112, mean=2115, max=2339, min=2102, pkpk=237, rms=14.638, max_dev=227
+base=2118, mean=2119, max=2337, min=2106, pkpk=231, rms=12.897, max_dev=219
+base=2120, mean=2120, max=2134, min=2111, pkpk=23, rms=2.119, max_dev=208
+base=2122, mean=2124, max=2334, min=2111, pkpk=223, rms=16.418, max_dev=212
+base=2124, mean=2143, max=2925, min=2116, pkpk=809, rms=59.173, max_dev=801
+base=2126, mean=2128, max=2385, min=2116, pkpk=269, rms=14.894, max_dev=259
+base=2127, mean=2135, max=2463, min=2116, pkpk=347, rms=25.070, max_dev=336
+base=2132, mean=2138, max=2361, min=2120, pkpk=241, rms=19.746, max_dev=229
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 102 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.021 Dead Time Fraction
+PUMPED SAMPLE
+ 49.155 ml Fluid pumped
+ 19.662 ml Initial Volume Analysed - from fraction illuminated
+ 19.244 ml After Deadtime Correction 
+ 23.093 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10072,16030,24934,   538}
+      Thresholds in ADU:{     16,     40,   223,   469,  689, 2105, 3350, 5212,   112}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  59977,  50643,  6285,   232,  136,   17,    5,    0, 46269}
+      After coinc.comp.:{  60273,  50821,  6286,   233,  136,   17,    5,    0, 46404}
+           Final /100ml:{ 260993, 220064, 27219,  1008,  588,   73,   21,    0, 200938}
+0 ml/min flow
+46719 particles > 100 amplitude
+46668 particles timed, fluid speed =  1.926m/s
+=====================================================
+START
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+do_pha WARNING:may not be not keeping up?? 7743 samples behind, delta = 26342ms
+base=2166, mean=2166, max=2327, min=2154, pkpk=173, rms=8.001, max_dev=161
+base=2182, mean=2190, max=2659, min=2173, pkpk=486, rms=29.635, max_dev=230
+base=2172, mean=2175, max=2393, min=2163, pkpk=230, rms=13.605, max_dev=221
+base=2160, mean=2164, max=2387, min=2151, pkpk=236, rms=18.964, max_dev=227
+base=2144, mean=2146, max=2372, min=2133, pkpk=239, rms=16.610, max_dev=227
+base=2140, mean=2143, max=2362, min=2130, pkpk=232, rms=15.211, max_dev=227
+base=2141, mean=2146, max=2367, min=2130, pkpk=237, rms=25.131, max_dev=226
+base=2144, mean=2147, max=2361, min=2134, pkpk=227, rms=18.792, max_dev=259
+base=2144, mean=2147, max=2355, min=2133, pkpk=222, rms=13.803, max_dev=211
+base=2144, mean=2150, max=2535, min=2136, pkpk=399, rms=24.064, max_dev=391
+base=2147, mean=2160, max=4129, min=2137, pkpk=1992, rms=79.380, max_dev=1982
+base=2148, mean=2147, max=2243, min=2136, pkpk=107, rms=2.058, max_dev=106
+base=2150, mean=2152, max=2365, min=2142, pkpk=223, rms=13.997, max_dev=215
+base=2154, mean=2155, max=2382, min=2143, pkpk=239, rms=15.600, max_dev=228
+base=2156, mean=2160, max=2384, min=2147, pkpk=237, rms=16.371, max_dev=228
+base=2160, mean=2166, max=2394, min=2149, pkpk=245, rms=21.720, max_dev=234
+base=2162, mean=2164, max=2403, min=2153, pkpk=250, rms=12.838, max_dev=241
+base=2162, mean=2169, max=3599, min=2154, pkpk=1445, rms=49.887, max_dev=1437
+base=2168, mean=2173, max=2400, min=2157, pkpk=243, rms=21.741, max_dev=232
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 102 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.021 Dead Time Fraction
+PUMPED SAMPLE
+ 49.155 ml Fluid pumped
+ 19.662 ml Initial Volume Analysed - from fraction illuminated
+ 19.237 ml After Deadtime Correction 
+ 23.085 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10072,16030,24934,   538}
+      Thresholds in ADU:{     16,     40,   222,   468,  688, 2101, 3344, 5201,   112}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  60184,  50711,  6148,   226,  125,   24,    6,    1, 46158}
+      After coinc.comp.:{  60483,  50890,  6149,   226,  125,   24,    6,    1, 46293}
+           Final /100ml:{ 261994, 220440, 26635,   978,  541,  103,   25,    4, 200527}
+0 ml/min flow
+46611 particles > 100 amplitude
+46575 particles timed, fluid speed =  1.923m/s
+=====================================================
+START
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+base=2180, mean=2184, max=2412, min=2171, pkpk=241, rms=11.540, max_dev=232
+base=2196, mean=2200, max=2413, min=2186, pkpk=227, rms=19.154, max_dev=217
+base=2190, mean=2196, max=2435, min=2182, pkpk=253, rms=23.548, max_dev=245
+base=2178, mean=2180, max=2393, min=2167, pkpk=226, rms=11.954, max_dev=215
+base=2162, mean=2162, max=2181, min=2153, pkpk=28, rms=2.343, max_dev=19
+base=2160, mean=2166, max=2378, min=2150, pkpk=228, rms=21.507, max_dev=218
+base=2156, mean=2161, max=2378, min=2148, pkpk=230, rms=18.158, max_dev=222
+base=2162, mean=2164, max=2404, min=2150, pkpk=254, rms=14.772, max_dev=242
+base=2162, mean=2165, max=2369, min=2154, pkpk=215, rms=11.053, max_dev=207
+base=2166, mean=2168, max=2383, min=2156, pkpk=227, rms=15.488, max_dev=217
+base=2168, mean=2171, max=2418, min=2158, pkpk=260, rms=17.012, max_dev=219
+base=2170, mean=2174, max=2392, min=2161, pkpk=231, rms=17.332, max_dev=234
+base=2172, mean=2174, max=2402, min=2161, pkpk=241, rms=12.248, max_dev=230
+base=2170, mean=2173, max=2410, min=2161, pkpk=249, rms=14.816, max_dev=240
+base=2172, mean=2174, max=2402, min=2162, pkpk=240, rms=17.332, max_dev=230
+base=2172, mean=2177, max=2772, min=2162, pkpk=610, rms=27.369, max_dev=600
+base=2173, mean=2186, max=2382, min=2165, pkpk=217, rms=29.365, max_dev=209
+base=2176, mean=2178, max=2418, min=2166, pkpk=252, rms=17.546, max_dev=242
+base=2177, mean=2185, max=2401, min=2164, pkpk=237, rms=16.109, max_dev=212
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 102 
+===== PORTION ===============================================
+  0.999 of ADC samples captured 
+  0.021 Dead Time Fraction
+PUMPED SAMPLE
+ 49.155 ml Fluid pumped
+ 19.662 ml Initial Volume Analysed - from fraction illuminated
+ 19.248 ml After Deadtime Correction 
+ 23.098 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10072,16030,24934,   538}
+      Thresholds in ADU:{     16,     39,   222,   467,  687, 2096, 3337, 5191,   112}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  60280,  50725,  6302,   226,  131,   30,   10,    3, 46234}
+      After coinc.comp.:{  60580,  50904,  6303,   226,  131,   30,   10,    3, 46369}
+           Final /100ml:{ 262273, 220382, 27288,   978,  567,  129,   43,   12, 200748}
+0 ml/min flow
+46672 particles > 100 amplitude
+46632 particles timed, fluid speed =  1.916m/s
+=====================================================
+START
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+do_pha WARNING:may not be not keeping up?? 6181 samples behind, delta = 26284ms
+base=2096, mean=2100, max=2336, min=2086, pkpk=250, rms=18.685, max_dev=240
+base=2132, mean=2140, max=2360, min=2123, pkpk=237, rms=26.055, max_dev=228
+base=2148, mean=2155, max=2399, min=2138, pkpk=261, rms=25.174, max_dev=251
+base=2154, mean=2158, max=2536, min=2145, pkpk=391, rms=18.331, max_dev=382
+base=2160, mean=2159, max=2364, min=2149, pkpk=215, rms=7.810, max_dev=204
+base=2158, mean=2166, max=2606, min=2147, pkpk=459, rms=27.253, max_dev=448
+base=2162, mean=2165, max=2390, min=2152, pkpk=238, rms=19.860, max_dev=228
+base=2162, mean=2165, max=2365, min=2152, pkpk=213, rms=15.871, max_dev=218
+base=2162, mean=2165, max=2382, min=2153, pkpk=229, rms=11.603, max_dev=219
+base=2160, mean=2164, max=2350, min=2151, pkpk=199, rms=13.308, max_dev=187
+base=2164, mean=2167, max=2405, min=2155, pkpk=250, rms=18.961, max_dev=241
+base=2164, mean=2165, max=2376, min=2153, pkpk=223, rms=10.195, max_dev=212
+base=2166, mean=2170, max=2399, min=2156, pkpk=243, rms=17.630, max_dev=233
+base=2166, mean=2172, max=2548, min=2158, pkpk=390, rms=22.186, max_dev=382
+base=2168, mean=2171, max=2397, min=2159, pkpk=238, rms=16.748, max_dev=229
+base=2170, mean=2177, max=2572, min=2160, pkpk=412, rms=33.771, max_dev=402
+base=2170, mean=2173, max=2397, min=2159, pkpk=238, rms=18.178, max_dev=227
+base=2170, mean=2172, max=2397, min=2160, pkpk=237, rms=12.475, max_dev=227
+base=2172, mean=2176, max=2408, min=2163, pkpk=245, rms=20.410, max_dev=236
+                 cmd_post(): posted command 25 
+                 cmd_post(): posted command 102 
+===== PORTION ===============================================
+  1.000 of ADC samples captured 
+  0.020 Dead Time Fraction
+PUMPED SAMPLE
+ 49.091 ml Fluid pumped
+ 19.636 ml Initial Volume Analysed - from fraction illuminated
+ 19.226 ml After Deadtime Correction 
+ 23.071 ml Final after leakage, flow curve, divergence correction
+     LPAView Thresholds:{     81,    192,  1068,  2246, 3300,10072,16030,24934,   538}
+      Thresholds in ADU:{     16,     39,   222,   467,  686, 2096, 3337, 5190,   112}
+             Size um(c):{      4,      6,    14,    21,   25,   38,   50,   70,    10}
+              Raw count:{  60731,  51166,  6428,   239,  146,   34,   17,    3, 46536}
+      After coinc.comp.:{  61038,  51350,  6429,   240,  146,   34,   17,    3, 46674}
+           Final /100ml:{ 264562, 222571, 27865,  1040,  632,  147,   73,   13, 202303}
+0 ml/min flow
+46974 particles > 100 amplitude
+46935 particles timed, fluid speed =  1.912m/s
+=====================================================
+START
+new_result=0
+->STOP
+                 cmd_post(): posted command 103 
+STOP/ABORT
+                 cmd_post(): posted command 19 
+->STARTING
+->PRE-RUN
+->RUNNING
+                 cmd_post(): posted command 9 
+->STOP
+->STOP
+STOP/ABORT
+                 cmd_post(): posted command 103 
+STOP/ABORT

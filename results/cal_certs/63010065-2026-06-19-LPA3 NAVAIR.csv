@@ -1,0 +1,297 @@
+product,LPA3 NAVAIR
+    LPA SETTINGS
+model_name,LPA3 NAVAIR
+serial_number,63010065
+option_bits,1024
+x_option_bits,0
+test_reference,LPA3 NAVAIR
+threshold0, 72
+threshold1, 164
+threshold2, 974
+threshold3, 2046
+threshold4, 3032
+threshold5, 7584
+threshold6, 10956
+threshold7, 25246
+effective_slit_width,60
+effective_slit_height,300
+channel_width,750
+divergence_milliradians,200
+channel_depth,500
+calibration_led_level_initial,8757
+calibration_led_level_last,2.22507e-308
+calibration_led_level_alarm,50
+calibration_date_last,2147483648
+calibration_date_next,2147483648
+result_format,0
+test_mode,0
+wait_time_s,0
+test_number,8
+CycleCount,0
+last_download,2147483648
+time_stamp,0
+source_drive,0
+continous_mode_confirm_target_n,0
+flush_time_s,30
+test_sequence,2
+sample_portions,1
+pump_target_flow_ml_min,30
+pump_flow_emptying_ml_min,150
+sample_volume_ml,40
+pump_flush_volume_ml,20
+pump_flow_flushing_ml_min,100
+cml4_online_flush_ml,90
+cml4_online_flush_ml_min,50
+cml4_online_sample_ml,50
+cml4_online_sample_ml_min,50
+cml4_offline_flush_ml,40
+cml4_offline_flush_ml_min,20
+cml4_offline_sample_ml,40
+cml4_offline_sample_ml_min,20
+cml4_pump_leakage_ml_min,0
+threshold32_0_value, 72
+threshold32_1_value, 112
+threshold32_2_value, 164
+threshold32_3_value, 224
+threshold32_4_value, 296
+threshold32_5_value, 384
+threshold32_6_value, 480
+threshold32_7_value, 592
+threshold32_8_value, 716
+threshold32_9_value, 842
+threshold32_10_value, 974
+threshold32_11_value, 1110
+threshold32_12_value, 1246
+threshold32_13_value, 1390
+threshold32_14_value, 1530
+threshold32_15_value, 1684
+threshold32_16_value, 1860
+threshold32_17_value, 2046
+threshold32_18_value, 2254
+threshold32_19_value, 2500
+threshold32_20_value, 2754
+threshold32_21_value, 3032
+threshold32_22_value, 3368
+threshold32_23_value, 3674
+threshold32_24_value, 4022
+threshold32_25_value, 4302
+threshold32_26_value, 4626
+threshold32_27_value, 7584
+threshold32_28_value, 10956
+threshold32_29_value, 25246
+threshold32_30_value, 25246
+threshold32_31_value, 25246
+threshold32_0_sz, 4
+threshold32_1_sz, 5
+threshold32_2_sz, 6
+threshold32_3_sz, 7
+threshold32_4_sz, 8
+threshold32_5_sz, 9
+threshold32_6_sz, 10
+threshold32_7_sz, 11
+threshold32_8_sz, 12
+threshold32_9_sz, 13
+threshold32_10_sz, 14
+threshold32_11_sz, 15
+threshold32_12_sz, 16
+threshold32_13_sz, 17
+threshold32_14_sz, 18
+threshold32_15_sz, 19
+threshold32_16_sz, 20
+threshold32_17_sz, 21
+threshold32_18_sz, 22
+threshold32_19_sz, 23
+threshold32_20_sz, 24
+threshold32_21_sz, 25
+threshold32_22_sz, 26
+threshold32_23_sz, 27
+threshold32_24_sz, 28
+threshold32_25_sz, 29
+threshold32_26_sz, 30
+threshold32_27_sz, 38
+threshold32_28_sz, 50
+threshold32_29_sz, 70
+threshold32_30_sz, 70
+threshold32_31_sz, 70
+MEASURED PARAMETERS
+verification_count_1_0,1062814
+verification_count_1_1,476375
+verification_count_1_2,37370
+verification_count_1_3,10993
+verification_count_1_4,5266
+verification_count_1_5,632
+verification_count_1_6,182
+verification_count_1_7,17
+verification_count_2_0,1062814
+verification_count_2_1,476375
+verification_count_2_2,37370
+verification_count_2_3,10993
+verification_count_2_4,5266
+verification_count_2_5,632
+verification_count_2_6,182
+verification_count_2_7,17
+verification_count_3_0,1062814
+verification_count_3_1,476375
+verification_count_3_2,37370
+verification_count_3_3,10993
+verification_count_3_4,5266
+verification_count_3_5,632
+verification_count_3_6,182
+verification_count_3_7,17
+reference_count_0,1.05634e+06
+reference_count_1,459350
+reference_count_2,36410
+reference_count_3,10940
+reference_count_4,5210
+reference_count_5,611.721
+reference_count_6,145.303
+reference_count_7,24.939
+verification_count32_1_0,10628.1
+verification_count32_1_1,7062.84
+verification_count32_1_2,4763.75
+verification_count32_1_3,3306.5
+verification_count32_1_4,2291.68
+verification_count32_1_5,1585.37
+verification_count32_1_6,1130.91
+verification_count32_1_7,816.309
+verification_count32_1_8,609.482
+verification_count32_1_9,473.839
+verification_count32_1_10,373.702
+verification_count32_1_11,305.14
+verification_count32_1_12,253.276
+verification_count32_1_13,210.76
+verification_count32_1_14,180.496
+verification_count32_1_15,153.824
+verification_count32_1_16,128.519
+verification_count32_1_17,109.939
+verification_count32_1_18,91.0176
+verification_count32_1_19,76.1995
+verification_count32_1_20,63.3761
+verification_count32_1_21,52.6614
+verification_count32_1_22,42.7447
+verification_count32_1_23,35.7915
+verification_count32_1_24,29.7503
+verification_count32_1_25,26.1597
+verification_count32_1_26,22.5692
+verification_count32_1_27,6.32621
+verification_count32_1_28,1.82377
+verification_count32_1_29,0.170979
+verification_count32_1_30,0.170979
+verification_count32_1_31,0.170979
+verification_count32_2_0,10628.1
+verification_count32_2_1,7062.84
+verification_count32_2_2,4763.75
+verification_count32_2_3,3306.5
+verification_count32_2_4,2291.68
+verification_count32_2_5,1585.37
+verification_count32_2_6,1130.91
+verification_count32_2_7,816.309
+verification_count32_2_8,609.482
+verification_count32_2_9,473.839
+verification_count32_2_10,373.702
+verification_count32_2_11,305.14
+verification_count32_2_12,253.276
+verification_count32_2_13,210.76
+verification_count32_2_14,180.496
+verification_count32_2_15,153.824
+verification_count32_2_16,128.519
+verification_count32_2_17,109.939
+verification_count32_2_18,91.0176
+verification_count32_2_19,76.1995
+verification_count32_2_20,63.3761
+verification_count32_2_21,52.6614
+verification_count32_2_22,42.7447
+verification_count32_2_23,35.7915
+verification_count32_2_24,29.7503
+verification_count32_2_25,26.1597
+verification_count32_2_26,22.5692
+verification_count32_2_27,6.32621
+verification_count32_2_28,1.82377
+verification_count32_2_29,0.170979
+verification_count32_2_30,0.170979
+verification_count32_2_31,0.170979
+verification_count32_3_0,10628.1
+verification_count32_3_1,7062.84
+verification_count32_3_2,4763.75
+verification_count32_3_3,3306.5
+verification_count32_3_4,2291.68
+verification_count32_3_5,1585.37
+verification_count32_3_6,1130.91
+verification_count32_3_7,816.309
+verification_count32_3_8,609.482
+verification_count32_3_9,473.839
+verification_count32_3_10,373.702
+verification_count32_3_11,305.14
+verification_count32_3_12,253.276
+verification_count32_3_13,210.76
+verification_count32_3_14,180.496
+verification_count32_3_15,153.824
+verification_count32_3_16,128.519
+verification_count32_3_17,109.939
+verification_count32_3_18,91.0176
+verification_count32_3_19,76.1995
+verification_count32_3_20,63.3761
+verification_count32_3_21,52.6614
+verification_count32_3_22,42.7447
+verification_count32_3_23,35.7915
+verification_count32_3_24,29.7503
+verification_count32_3_25,26.1597
+verification_count32_3_26,22.5692
+verification_count32_3_27,6.32621
+verification_count32_3_28,1.82377
+verification_count32_3_29,0.170979
+verification_count32_3_30,0.170979
+verification_count32_3_31,0.170979
+reference_count32_0,10563.4
+reference_count32_1,6899.8
+reference_count32_2,4593.5
+reference_count32_3,3202.3
+reference_count32_4,2184.8
+reference_count32_5,1501.7
+reference_count32_6,1069.5
+reference_count32_7,779
+reference_count32_8,583.4
+reference_count32_9,453.2
+reference_count32_10,364.1
+reference_count32_11,296.9
+reference_count32_12,246.4
+reference_count32_13,208.5
+reference_count32_14,178.7
+reference_count32_15,153.3
+reference_count32_16,130.4
+reference_count32_17,109.4
+reference_count32_18,91.3
+reference_count32_19,76.1
+reference_count32_20,63.1
+reference_count32_21,52.1
+reference_count32_22,43
+reference_count32_23,35.7
+reference_count32_24,29.8
+reference_count32_25,25.2
+reference_count32_26,21.1
+reference_count32_27,6.11721
+reference_count32_28,1.45303
+reference_count32_29,0.24939
+reference_count32_30,0.24939
+reference_count32_31,0.24939
+Measured Counter Data
+pump_current_sampling,19
+pump_current_emptying,363
+led_level,8738
+no_noise_threshold,37
+CALIBRATION DOCUMENT VALUES
+date_,46192.6
+serial_number_,-1
+    RIG PARAMETERS
+meas_init_level,0
+calc_init_volume,0
+desired_concentration,16
+calc_qty_add,0
+meas_qty_add,0
+meas_final_level,0
+calc_volume,0
+calc_concentration,16
+rig_param_volume_mult,0
+rig_param_volume_constant,0
+rig_param_identifier,NOT SET
+rig_cleanliness_count,0
